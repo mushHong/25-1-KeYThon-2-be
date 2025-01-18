@@ -140,7 +140,7 @@ def query_naver_link(query):
 
 # 네이버 url을 보고 언론사 유추
 def find_press(url):
-    press_dict
+    pass
 
 # 테스트 실행
 if __name__ == "__main__":
